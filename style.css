@@ -1,0 +1,15 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+#dark {
+    cursor: pointer;
+}
+
+#default {
+    cursor: pointer;
+}
